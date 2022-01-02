@@ -14,10 +14,8 @@ Hi, I'm Mertcan. 👋
 To be written...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercoski&hide=issues,stars&show_icons=true&include_all_commits=true&theme=radical)
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercoski)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercoski&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercoski&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
