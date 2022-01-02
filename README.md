@@ -5,13 +5,17 @@
 
 Hi, I'm Mertcan. 👋
 
+
+I am interested in coding so much because, it pushes my limits and create a field to show my abilities and toughts. I am enjoying while coding, so I can keep 
+moving and improve myself.
+
+Currently my works are about:
+
   - Android Developer [Kotlin] ⭑⭑⭒⭒⭒
   - Flutter Developer [Dart] ⭑⭑⭑⭑⭒
   - Python Developer [Python] ⭑⭑⭑⭑⭒
 
-
-
-To be written...
+Kotlin and Flutter comes from the work in the mobile development and I really prefer Flutter to create cross-platform apps with beatiful design. Also, Python part comes from the backgroud of ML Engineering.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercoski&hide=issues,stars&show_icons=true&include_all_commits=true&theme=radical)
   
