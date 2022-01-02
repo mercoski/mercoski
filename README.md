@@ -9,4 +9,6 @@ To be written...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercoski&hide=issues,stars&show_icons=true&include_all_commits=true&theme=radical)
 
-You can find more details about me from [here](https://mercoski.github.io/en). And you can also contact me from mertcanerbasiemk@gmail.com
+/*You can find more details about me from [here](https://mercoski.github.io/en). 
+And you can also contact me from mertcanerbasiemk@gmail.com
+*/
