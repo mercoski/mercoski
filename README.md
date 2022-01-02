@@ -17,10 +17,13 @@ Currently my works are about:
 
 Kotlin and Flutter comes from the work in the mobile development and I really prefer Flutter to create cross-platform apps with beatiful design. Also, Python part comes from the backgroud of ML Engineering.
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercoski&hide=issues,stars&show_icons=true&include_all_commits=true&theme=radical)
   
+  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercoski&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 You can find more details about me from [here](https://mercoski.github.io/en). And you can also contact me from mertcanerbasiemk@gmail.com
