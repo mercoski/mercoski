@@ -14,11 +14,10 @@ moving and improve myself.
 
 Currently my works are about:
 
-  - Android Developer [Kotlin] ⭑⭑⭒⭒⭒
-  - Flutter Developer [Dart] ⭑⭑⭑⭑⭒
-  - Python Developer [Python] ⭑⭑⭑⭑⭒
+  - iOS Developer [Swift - UIKit] ⭑⭑⭑⭒⭒
+  - Flutter Developer [Dart] ⭑⭑⭑⭑⭑
 
-Kotlin and Flutter comes from the work in the mobile development and I really prefer Flutter to create cross-platform apps with beautiful design. Also, Python part comes from the backgroud of ML Engineering.
+Swift and Flutter comes from the work in the mobile development and I really prefer Flutter to create cross-platform apps with beautiful design.
 
 
 
