@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertcan-erbaşi-46a554108/)
 <a href="mailto:mertcanerbasiemk@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://mertcanerbasi.github.io/en"><img src="https://img.shields.io/badge/portfolio-%23DD0031.svg?&style=for-the-badge&logo=webflow&logoColor=white"/></a>
+<a href="[https://rythondev.com/home]"><img src="https://img.shields.io/badge/portfolio-%23DD0031.svg?&style=for-the-badge&logo=webflow&logoColor=white"/></a>
 
 
 
@@ -28,4 +28,4 @@ Swift and Flutter comes from the work in the mobile development and I really pre
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcanerbasi&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-You can find more details about me from [here](https://mercoski.github.io/en). And you can also contact me from mertcanerbasiemk@gmail.com
+You can find more details about me from [here]([https://rythondev.com/home]). And you can also contact me from mertcanerbasiemk@gmail.com
