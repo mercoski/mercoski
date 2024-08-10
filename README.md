@@ -14,7 +14,7 @@ moving and improve myself.
 
 Currently my works are about:
 
-  - iOS Developer [Swift - UIKit] ⭑⭑⭑⭒⭒
+  - iOS Developer [Swift - UIKit - SwiftUI] ⭑⭑⭑⭑⭒
   - Flutter Developer [Dart] ⭑⭑⭑⭑⭑
 
 Swift and Flutter comes from the work in the mobile development and I really prefer Flutter to create cross-platform apps with beautiful design.
